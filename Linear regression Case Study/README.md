@@ -15,9 +15,13 @@ Business Goal: You are tasked with modeling the demand for shared bikes using th
 
 ### Steps Performed
 Step 1: Load and Analyze the Data
+
 Step 2: Prepare the data for modelling
+
 Step 3: Training the Model
+
 Step 4: Perform Residual Analysis
+
 Step 5: Predict and evaluate test set
 
 ## Contact
